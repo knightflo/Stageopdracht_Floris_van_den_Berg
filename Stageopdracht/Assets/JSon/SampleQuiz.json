@@ -1,0 +1,39 @@
+{
+	"Questions": [{
+		"Question": "Wie is de CEO van Goal043?",
+		"Answers": [{
+			"Answer": "John Trienes",
+			"IsCorrect": false
+		}, {
+			"Answer": "Jeroen Trienes",
+			"IsCorrect": true
+		}, {
+			"Answer": "Stef Boesten",
+			"IsCorrect": false
+		}]
+	}, {
+		"Question": "Hoe lang bestaat Goal043?",
+		"Answers": [{
+			"Answer": "10 jaar",
+			"IsCorrect": false
+		}, {
+			"Answer": "2 jaar",
+			"IsCorrect": false
+		}, {
+			"Answer": "15 jaar",
+			"IsCorrect": true
+		}]
+	}, {
+		"Question": "Waar is Goal043 gevestigd?",
+		"Answers": [{
+			"Answer": "Gent",
+			"IsCorrect": false
+		}, {
+			"Answer": "Maastricht",
+			"IsCorrect": true
+		}, {
+			"Answer": "Heerlen",
+			"IsCorrect": false
+		}]
+	}]
+}
